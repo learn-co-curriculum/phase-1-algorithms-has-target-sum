@@ -24,10 +24,10 @@ Here are a few examples:
 
 ```js
 hasTargetSum([3, 8, 12, 4, 11, 7], 10);
-// returns true, since [3, 7] add up to 10
+// returns true, since 3 and 7 add up to 10
 
 hasTargetSum([22, 19, 4, 6, 30], 25);
-// returns true, since [19, 6] adds up to 25
+// returns true, since 19 and 6 add up to 25
 
 hasTargetSum([1, 2, 5], 4);
 // returns false, since no pair of numbers adds up to 4
