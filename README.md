@@ -17,7 +17,7 @@ Write a function called `hasTargetSum` that receives two arguments:
 - an `array` of integers
 - a `target` integer
 
-The function should return true if any pair of numbers in the array add up to
+The function should return true if any pair of numbers in the array adds up to
 the target number.
 
 Here are a few examples:
