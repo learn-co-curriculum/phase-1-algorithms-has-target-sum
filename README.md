@@ -60,8 +60,8 @@ You should also write some additional test cases in the `index.js` file to check
 your solution. After writing your test cases and coding your solution, you can
 view the output of your tests by running `node index.js` in the terminal.
 
-When you're satisfied with your code, run `learn test` to run the tests and
-submit the lab.
+When you're satisfied with your code, run `npm test` to run the tests and
+submit the lab in CodeGrade.
 
 Once you've completed your implementation, determine what the time and space
 complexity of your algorithm is using Big O notation. If you came up with more
